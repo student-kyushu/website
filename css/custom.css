@@ -1,0 +1,21 @@
+.img-fluid {
+    max-width: 100% !important;
+    height: none;
+}
+
+.top {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.sp-title {
+    margin: 60px 0 !important;
+}
+
+.about-ksa {
+    background: #f9f9ff;
+}
+
+.timeline {
+    margin-top: 60px;
+}
